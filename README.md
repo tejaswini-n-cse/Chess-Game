@@ -60,33 +60,6 @@ Chess-Game-App/
 
 ---
 
-## 🚀 Installation & Setup
-
-Follow these steps to run the project locally:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/chess-game-app.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd chess-game-app
-```
-
-### 3. Run the application
-
-Open:
-
-```
-index.html
-```
-
-in your preferred web browser.
-
----
 
 ## 🎯 Learning Outcomes
 
